@@ -1,5 +1,5 @@
 {
-  "name": "angular-quickstart",
+  "name": "Mi-plantilla-angular",
   "version": "1.0.0",
   "scripts": {
     "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
@@ -8,7 +8,7 @@
     "tsc:w": "tsc -w"
   },
   "keywords": [],
-  "author": "",
+  "author": "Trejo",
   "license": "MIT",
   "dependencies": {
     "@angular/common": "~2.4.0",
