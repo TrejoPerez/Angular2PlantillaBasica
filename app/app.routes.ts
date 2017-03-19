@@ -1,7 +1,7 @@
 import { Routes,RouterModule } from '@angular/router';
-import { ModuleWhitProviders } from '@angular/core';
+import { ModuleWithProviders } from '@angular/core';
 
 const appRoutes:Routes=[
-    {path:"",component:}
+    //{path:"",component:}
 ];
-export const appRouterProvider.ModuleWhitProviders=RouterModule.forRoot(appRoutes);
+export const appRouterProvider:ModuleWithProviders=RouterModule.forRoot(appRoutes);
